@@ -6,7 +6,7 @@ Fold (aka reduce, accumulate, aggregate, compress, or inject) higher-order funct
 **Start: 2015**
 
 ## Why
-Working in Haskell helped me in grasping the functional programming concepts. My [LINQ](https://en.wikipedia.org/wiki/Language_Integrated_Query) undestanding improved drammatically thanks to Haskell. IN this project I re-implemented (in different ways) the [Fold / Aggregate function](https://en.wikipedia.org/wiki/Fold_(higher-order_function)) in C#. I also re-implemented Map, Distinct and other function in Haskell using the Fold function.
+Working in Haskell has helped me better understand the concepts of functional programming. My understanding of [LINQ](https://en.wikipedia.org/wiki/Language_Integrated_Query) has improved dramatically thanks to Haskell. In this project I have re-implemented (in several ways) the [Fold / Aggregate](https://en.wikipedia.org/wiki/Fold_(higher-order_function)) function in C#. I also re-implemented Map, Distinct and other functions in Haskell using the Fold function.
 
 ## Example
 
